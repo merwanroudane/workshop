@@ -551,9 +551,9 @@ col1, col2 = st.columns([1, 1])
 with col1:
     st.markdown("""
     <div class="contact-card">
-        <h3>📧 د. مروان روضان</h3>
+        <h3>📧 د. مروان رودان</h3>
         <p><strong>البريد الإلكتروني:</strong> merwanroudane920@gmail.com</p>
-        <p><strong>واتساب:</strong> +213 797 905 609</p>
+        <p><strong>واتساب:</strong> +213797905609</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -581,4 +581,5 @@ st.markdown("""
         📅 سيتم الإعلان عن الجدول التفصيلي ومعلومات التسجيل قريباً
     </p>
 </div>
+
 """, unsafe_allow_html=True)
